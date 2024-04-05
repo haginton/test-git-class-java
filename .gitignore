@@ -1,0 +1,3 @@
+#Archivos Intellij Idea a ignonar
+.idea/
+*.iml
