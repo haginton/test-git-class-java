@@ -7,6 +7,6 @@ public class FirstClass {
     }
 
     public static double potencia(double base, double exponente){
-        return Math.pow(base, exponente) + 0;
+        return Math.pow(base, exponente);
     }
 }
